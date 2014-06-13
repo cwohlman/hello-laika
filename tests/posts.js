@@ -1,6 +1,7 @@
 //tests/posts.js
 var assert = require('assert');
 
+// We'll write more tests soon!
 suite('Posts', function() {
   test('in the server', function(done, server) {
     server.eval(function() {
